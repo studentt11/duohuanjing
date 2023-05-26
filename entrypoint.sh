@@ -6,7 +6,7 @@ UUID=${UUID:-'be16f4d6-edc9-4168-80c2-504595551803'}
 
 # 其他Paas保活
 PAAS1_URL=https://ceshi0527.onrender.com
-PAAS2_URL=
+PAAS2_URL=https://ceshi0527-xxzo6kdb.b4a.run
 PAAS3_URL=
 PAAS4_URL=
 PAAS5_URL=
